@@ -104,7 +104,6 @@ Tool : Arduino IDE, Blynk
 <div align=center>
 	<h3>🏠SmartHome(IOT)</h3>
 </div>
-
 <br>
 팀 프로젝트(5인)_졸업작품
 <br>

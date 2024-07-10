@@ -46,9 +46,7 @@
 </div>
 <div align=center>
 <h3>1.📖Library System for Company</h3>
-
-<p>도서관리시스템
-
+<br>
 개발기간 : 2024.03~2024.04
 <br>
 핵심 역할 :
@@ -58,7 +56,6 @@ Language : JAVA, JavaScript, JSP
 Tool : Eclips, Tomcat
 <br>
 [프로젝트 상세 설명]()
-</p>
 </div>
 
 <br />

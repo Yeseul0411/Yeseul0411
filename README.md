@@ -99,7 +99,6 @@ Tool : Arduino IDE, Blynk
 [프로젝트 상세 설명]()
 </div>
 
-<br />
 
 <div align=center>
 	<h3>🏠SmartHome(IOT)</h3>

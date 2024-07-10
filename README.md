@@ -55,7 +55,7 @@ Language : JAVA, JavaScript, JSP
 <br>
 Tool : Eclips, Tomcat
 <br>
-[프로젝트 상세 설명]()
+[프로젝트 상세 설명](https://github.com/Yeseul0411/Yeseul0411/blob/main/Library%20System%20for%20Company.pptx.pdf)
 </div>
 
 <br />

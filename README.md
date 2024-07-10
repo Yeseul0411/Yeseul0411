@@ -65,6 +65,24 @@ Tool : Eclips, Tomcat
 <br />
 
 <div align=center>
+	<h3>📖Library System for Company</h3>
+<br>
+팀 프로젝트(3인)
+<br>
+개발기간 : 2024.03~2024.04(2개월)
+<br>
+핵심 역할 :
+<br>
+Language : JAVA, JavaScript, JSP
+<br>
+Tool : Eclips, Tomcat
+<br>
+[프로젝트 상세 설명]()
+</div>
+
+<br />
+
+<div align=center>
 	<h3>☁️AirCleaner(IOT)</h3>
 </div>
 <br>
@@ -99,46 +117,9 @@ Tool : Rasberry Pi, Firebase, Arduino IDE
 <br>
 [프로젝트 상세 설명]()
 </div>
-
 <br />
 
-# 4. 👊 MyLittelHero
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
-
-<br />
-
-# 5. 🎮 Sparta Fighter
-
-> 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
->
-> - 개발기간 : 2022.04.25-27
-> - 핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
-> - Language : python3
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
-
-<br />
-
-## 6. 🎶 RE:TRO | 그때 그 시절, 당신의 음악
-
-> 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
->
-> - 개발기간 : 2022.03.02-17
-> - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
-> - Language : python3, javascript
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
-
-<br />
 
 
 

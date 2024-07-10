@@ -84,7 +84,6 @@ Tool : Eclips, Tomcat
 
 <div align=center>
 	<h3>☁️AirCleaner(IOT)</h3>
-</div>
 <br>
 팀 프로젝트(3인)
 <br>
@@ -102,8 +101,7 @@ Tool : Arduino IDE, Blynk
 
 <div align=center>
 	<h3>🏠SmartHome(IOT)</h3>
-</div>
-<br>
+ <br>
 팀 프로젝트(5인)_졸업작품
 <br>
 개발기간 : 2022.08~2023.05(10개월)
@@ -116,6 +114,8 @@ Tool : Rasberry Pi, Firebase, Arduino IDE
 <br>
 [프로젝트 상세 설명]()
 </div>
+ 
+
 
 
 

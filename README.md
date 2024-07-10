@@ -69,7 +69,7 @@ Tool : Eclips, Tomcat
 > - Language : python3
 > - Skill : Django, Django-rest-framework
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/Yeseul0411/Yeseul0411/blob/main/Library%20System%20for%20Company.pptx.pdf)
 
 <br />
 

@@ -47,17 +47,17 @@
 	<h3>📝Projects</h3>
 </div>
 <div align=center>
-	<h3>📖Library System for Company</h3>
+	<h3></h3>
 <br>
 팀 프로젝트(3인)
 <br>
-개발기간 : 2024.03~2024.04(2개월)
+개발기간 : 2024.07~(진행중)
 <br>
 핵심 역할 :
 <br>
-Language : JAVA, JavaScript, JSP
+Language : Java, JavaScript
 <br>
-Tool : Eclips, Tomcat
+Tool : Visual Studio Code, React
 <br>
 [프로젝트 상세 설명]()
 </div>
@@ -104,6 +104,7 @@ Tool : Arduino IDE, Blynk
 <div align=center>
 	<h3>🏠SmartHome(IOT)</h3>
 </div>
+
 <br>
 팀 프로젝트(5인)_졸업작품
 <br>
@@ -117,6 +118,7 @@ Tool : Rasberry Pi, Firebase, Arduino IDE
 <br>
 [프로젝트 상세 설명]()
 </div>
+
 <br />
 
 

@@ -45,7 +45,9 @@
 	<h3>📝Projects</h3>
 </div>
 <div align=center>
-	<p>:book:Library System for Company.</p>
+	<p>📚Library System for Company</p>
+	개발기간 : 2024.03~ 2024.04
+	 https://docs.google.com/viewer?urlhttps://drive.google.com/file/d/1sncMaWZk010n6O8UINDLpniou5byOLYp/view?raw=T 
 </div>
 
 

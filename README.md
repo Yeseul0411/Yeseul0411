@@ -45,9 +45,11 @@
 	<h3>📝Projects</h3>
 </div>
 <div align=center>
-<h3>1.📖Library System for Company</h3>
+	<h3>📖Library System for Company</h3>
 <br>
-개발기간 : 2024.03~2024.04
+팀 프로젝트(3인)
+<br>
+개발기간 : 2024.03~2024.04(2개월)
 <br>
 핵심 역할 :
 <br>
@@ -55,34 +57,46 @@ Language : JAVA, JavaScript, JSP
 <br>
 Tool : Eclips, Tomcat
 <br>
-[프로젝트 상세 설명](https://github.com/Yeseul0411/Yeseul0411/blob/main/Library%20System%20for%20Company.pptx.pdf)
+[프로젝트 상세 설명]()
 </div>
 
 <br />
 
-# 2. 👞 MyLittleShoes
-
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
->
-> - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
-> - Language : python3
-> - Skill : Django, Django-rest-framework
->
-> [프로젝트 상세 설명](https://github.com/Yeseul0411/Yeseul0411/blob/main/Library%20System%20for%20Company.pptx.pdf)
+<div align=center>
+	<h3>☁️AirCleaner(IOT)</h3>
+</div>
+<br>
+팀 프로젝트(3인)
+<br>
+개발기간 : 2022.11~2022.12(2개월)
+<br>
+핵심 역할 :
+<br>
+Language : C, C++
+<br>
+Tool : Arduino IDE, Blynk
+<br>
+[프로젝트 상세 설명]()
+</div>
 
 <br />
 
-# 3. 🍻 MyLittleBeer
-
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
->
-> - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
-> - Language : python3, javascript
-> - Skill : Django, MySQL
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+<div align=center>
+	<h3>🏠SmartHome(IOT)</h3>
+</div>
+<br>
+팀 프로젝트(5인)_졸업작품
+<br>
+개발기간 : 2022.08~2023.05(2개월)
+<br>
+핵심 역할 :
+<br>
+Language : C, C++
+<br>
+Tool : Rasberry Pi, Firebase, Arduino IDE
+<br>
+[프로젝트 상세 설명]()
+</div>
 
 <br />
 

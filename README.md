@@ -50,9 +50,13 @@
 <p>도서관리시스템
 
 개발기간 : 2024.03~2024.04
-핵심 역할 : 
+<br>
+핵심 역할 :
+<br>
 Language : JAVA, JavaScript, JSP
+<br>
 Tool : Eclips, Tomcat
+<br>
 [프로젝트 상세 설명]()
 </p>
 </div>

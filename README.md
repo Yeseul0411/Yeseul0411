@@ -44,8 +44,8 @@
 <div align=center>
 	<h3>📝Projects</h3>
 </div>
-<div>
-<h3>1. 📚Library System for Company</h3>
+<div align=center>
+<h3>1.📖Library System for Company</h3>
 
 <p>도서관리시스템
 

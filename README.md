@@ -9,6 +9,7 @@
 - 
 
 <br>
+
 ## 💻 Project 💻
 <div>
 	<h3>💻Supabase Authentication Implementation Project</h3>

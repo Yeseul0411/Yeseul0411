@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Yeseul%20Github!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiho's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcom%20To%20Yeseul's%20Github!👋&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
  
 <div align="left">
  
@@ -11,41 +11,14 @@
  
 <br>
 ## 💪 Experience 💪
-- **SSAFY 12기** _(2024.07~)_
-- 대한전자공학회 IEIE 하계종합학술대회 학회 _(2024.06.26 ~ 2024.06.28)_
-- 소프트스퀘어드 외주 개발자 근무 _(2023.12 ~ 2024.03)_
-- 제 17회 공개SW 개발자대회 참가 _(2023.07 ~ 2023.10)_
-- CMC(Central MakeUs Challenge 12기 _(2023.01 ~ 2023.03)_
-- 소프트스퀘어드 라이징캠프 서버 11기 _(2022.09 ~ 2022.12)_
-- (주)나이스디앤비 IT 개발팀 인턴 근무 _(2022.07 ~ 2022.12)_
-- LG U+ 신규 서비스 자문단 _(2022.04 ~ 2022.10)_
-- 교내 창업동아리 _(2021.06 ~ 2021.09)_
+
 <br>
 ## 💻 Project 💻
-- (주)아인스 산학협력 프로젝트, IoT 및 AAS 기반 스마트 팩토리 운용 환경 구축 _(2023.07 ~ 2024.07)_
-- 그릿지 서버 개발 _(2023.12 ~ 2024.03)_
-- 이게뭐약! 서버 개발 _(2023.07 ~ 2023.10)_
-- FROMU 서버 1인 개발 _(2023.01 ~ 2023.07)_
-- 제스처 인식 기반 키오스크 제작 _(2022.07 ~ 2022.11)_
-<br>
 
+<br>
 ## 🏆 Award 🏆
 
-🥈 [2020년 창의아이디어 경진대회 은상] *2020.12.18, 동국대학교융합교육원* : 사람의 손 없이 자동으로 넘어가는 악보를 구현한 웹 사이트, '스마트 악보'
-🥈 [2020년 창의아이디어 경진대회 은상] *2020.12.18, 동국대학교융합교육원*
-<br> &nbsp; &nbsp; 사람의 손 없이 자동으로 넘어가는 악보를 구현한 웹 사이트, '스마트 악보'
 
-🥉 [2021년 제8회 전국ICT융합공모전 장려상] *2021.09.29, 충북과학기술혁신원, 충북ICT산업협회* : 온라인 미술 교육을 제공하고 그림 피드백 단위의 거래를 중개하는 웹 서비스, '드로잉 서포터즈'
-🥉 [2021년 제8회 전국ICT융합공모전 장려상] *2021.09.29, 충북과학기술혁신원, 충북ICT산업협회*
-<br> &nbsp; &nbsp; 온라인 미술 교육을 제공하고 그림 피드백 단위의 거래를 중개하는 웹 서비스, '드로잉 서포터즈'
-
-🏅 [12th Central MakeUs Challenge 최우수상] *2023.03.25, Central MakeUs Challenge* : 디지털에서도 연인, 친구, 가족 간 교환 일기를 주고받으며 속마음을 자유롭게 공유할 수 있는 앱 서비스, ‘FromU’
-🏅 [12th Central MakeUs Challenge 최우수상] *2023.03.25, Central MakeUs Challenge*
-<br> &nbsp; &nbsp; 디지털에서도 연인, 친구, 가족 간 교환 일기를 주고받으며 속마음을 자유롭게 공유할 수 있는 앱 서비스, ‘FromU’
-
-📄 [IEIE 하계종합학술대회 학회 참가 및 학술지 논문 게재] *2024.06.28, 대한전자공학회* : Kubernetes 기반 IoT 모니터링 및 AI 모델 배포를 위한 AAS 주도 코드 생성
-📄 [IEIE 하계종합학술대회 학회 참가 및 학술지 논문 게재] *2024.06.28, 대한전자공학회*
-<br> &nbsp; &nbsp; Kubernetes 기반 IoT 모니터링 및 AI 모델 배포를 위한 AAS 주도 코드 생성
 
 <br>
 

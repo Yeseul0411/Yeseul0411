@@ -10,7 +10,7 @@
 
 <br>
 ## 💻 Project 💻
-<div align=center>
+<div>
 	<h3>💻Supabase Authentication Implementation Project</h3>
 <br>
 Team Project(3 People)
@@ -28,7 +28,7 @@ Tool : Visual Studio Code, React
 
 <br />
 
-<div align=center>
+<div>
 	<h3>📖Library System for Company</h3>
 <br>
 Team Project(3 People)
@@ -46,7 +46,7 @@ Tool : Eclips, Tomcat
 
 <br />
 
-<div align=center>
+<div>
 	<h3>☁️AirCleaner(IOT)</h3>
 <br>
 Team Project(3 People)
@@ -63,7 +63,7 @@ Tool : Arduino IDE, Blynk
 </div>
 
 
-<div align=center>
+<div>
 	<h3>🏠SmartHome(IOT)</h3>
  <br>
 Team Project(5 People)_Capstone

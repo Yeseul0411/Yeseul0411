@@ -2,10 +2,9 @@
 	<img src = "https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Yeseul%20Github!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
 </div>
 
-<div>
-	<h3>📚 Tech Stack 📚</h3>
+##📚 Tech Stack 📚
 	<p>✨ Platforms & Languages ✨</p>
-</div>
+
 <div style="display:flex; flex-direction:row;">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />

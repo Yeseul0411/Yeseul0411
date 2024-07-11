@@ -47,11 +47,11 @@
 	<h3>📝Projects</h3>
 </div>
 <div align=center>
-	<h3></h3>
+	<h3>💻Supabase Authentication Implementation Project</h3>
 <br>
-팀 프로젝트(3인)
+Team Project(3 People)
 <br>
-개발기간 : 2024.07~(진행중)
+Develop: 2024.07~(ing)
 <br>
 핵심 역할 :
 <br>
@@ -67,9 +67,9 @@ Tool : Visual Studio Code, React
 <div align=center>
 	<h3>📖Library System for Company</h3>
 <br>
-팀 프로젝트(3인)
+Team Project(3 People)
 <br>
-개발기간 : 2024.03~2024.04(2개월)
+Develop : 2024.03~2024.04(2mo.)
 <br>
 핵심 역할 :
 <br>
@@ -85,9 +85,9 @@ Tool : Eclips, Tomcat
 <div align=center>
 	<h3>☁️AirCleaner(IOT)</h3>
 <br>
-팀 프로젝트(3인)
+Team Project(3 People)
 <br>
-개발기간 : 2022.11~2022.12(2개월)
+Develop : 2022.11~2022.12(2mo.)
 <br>
 핵심 역할 :
 <br>
@@ -102,9 +102,9 @@ Tool : Arduino IDE, Blynk
 <div align=center>
 	<h3>🏠SmartHome(IOT)</h3>
  <br>
-팀 프로젝트(5인)_졸업작품
+Team Project(5 People)_Capstone
 <br>
-개발기간 : 2022.08~2023.05(10개월)
+Develop : 2022.08~2023.05(10mo.)
 <br>
 핵심 역할 :
 <br>

@@ -10,7 +10,74 @@
 
 <br>
 ## 💻 Project 💻
+<div align=center>
+	<h3>💻Supabase Authentication Implementation Project</h3>
+<br>
+Team Project(3 People)
+<br>
+Develop: 2024.07~(ing)
+<br>
+핵심 역할 :
+<br>
+Language : Java, JavaScript
+<br>
+Tool : Visual Studio Code, React
+<br>
+[프로젝트 상세 설명]()
+</div>
 
+<br />
+
+<div align=center>
+	<h3>📖Library System for Company</h3>
+<br>
+Team Project(3 People)
+<br>
+Develop : 2024.03~2024.04(2mo.)
+<br>
+핵심 역할 :
+<br>
+Language : JAVA, JavaScript, JSP
+<br>
+Tool : Eclips, Tomcat
+<br>
+[프로젝트 상세 설명]()
+</div>
+
+<br />
+
+<div align=center>
+	<h3>☁️AirCleaner(IOT)</h3>
+<br>
+Team Project(3 People)
+<br>
+Develop : 2022.11~2022.12(2mo.)
+<br>
+핵심 역할 :
+<br>
+Language : C, C++
+<br>
+Tool : Arduino IDE, Blynk
+<br>
+[프로젝트 상세 설명]()
+</div>
+
+
+<div align=center>
+	<h3>🏠SmartHome(IOT)</h3>
+ <br>
+Team Project(5 People)_Capstone
+<br>
+Develop : 2022.08~2023.05(10mo.)
+<br>
+핵심 역할 :
+<br>
+Language : C, C++
+<br>
+Tool : Rasberry Pi, Firebase, Arduino IDE
+<br>
+[프로젝트 상세 설명]()
+</div>
 <br>
 ## 🏆 Award 🏆
 

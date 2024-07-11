@@ -2,7 +2,7 @@
 	<img src = "https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Yeseul%20Github!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
 </div>
 
-<div align=center>
+<div>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 </div>
 <br>
-<div align=center>
+<div>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
@@ -44,7 +44,7 @@
 
 <br>
 <div align=center>
-	<h3>📝Projects</h3>
+	<h30>📝Projects</h3>
 </div>
 <div align=center>
 	<h3>💻Supabase Authentication Implementation Project</h3>

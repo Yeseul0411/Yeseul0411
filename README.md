@@ -36,7 +36,7 @@ Language : JAVA, JavaScript, JSP
 <br>
 Tool : Eclips, Tomcat
 <br>
-[프로젝트 상세 설명]()
+[프로젝트 상세 설명](https://github.com/Yeseul0411/Library-System-for-Company)
 </div>
 
 <br />
@@ -54,7 +54,7 @@ Language : C, C++
 <br>
 Tool : Arduino IDE, Blynk
 <br>
-[프로젝트 상세 설명]()
+[프로젝트 상세 설명](https://github.com/Yeseul0411/AirCleaner-IOT-)
 </div>
 
 
@@ -71,7 +71,7 @@ Language : C, C++
 <br>
 Tool : Rasberry Pi, Firebase, Arduino IDE
 <br>
-[프로젝트 상세 설명]()
+[프로젝트 상세 설명](https://github.com/Yeseul0411/SmartHome-IOT-)
 </div>
 <br>
 

@@ -2,14 +2,7 @@
 
 
 <br>
-/*
-## 💪 Experience 💪
-- 
--
-- 
-- 
-*/
-<br>
+
 
 ## 💻 Project 💻
 <div>
@@ -81,9 +74,6 @@ Tool : Rasberry Pi, Firebase, Arduino IDE
 [프로젝트 상세 설명]()
 </div>
 <br>
-
-<!-->## 🏆 Award 🏆<--!>
-
 
 
 <br>

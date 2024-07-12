@@ -65,7 +65,7 @@ Team Project(5 People)_Capstone
 <br>
 Develop : 2022.08~2023.05(10mo.)
 <br>
-역할 : 전체 회로 설계
+역할 : 회로 설계
 <br>
 Language : C, C++
 <br>

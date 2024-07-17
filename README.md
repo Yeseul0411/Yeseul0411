@@ -14,13 +14,9 @@
 <br>
 <b>・Role :</b> ...ing
 <br>
-<b>・Language : </b>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<b>・Language : </b> JAVA, JavaScript
 <br>
-<b>・Tool : </b>
-	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+<b>・Tool : </b> React, Visual Studio Code
 <br>
 <b>・[Detailed project description]</b>(https://github.com/Yeseul0411/Supabase-Project-2024)
 </div>
@@ -54,13 +50,9 @@
 <br>
 <b>・Role :</b> Full Circuit design, LED Coding
 <br>
-<b>・Language :</b> 
-	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
+<b>・Language :</b> C, C++
 <br>
-<b>・Tool :</b> 
-	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
-	<img src="https://img.shields.io/badge/Blynk-48d1cc?style=flat&logo=Blynk&logoColor=white" />
+<b>・Tool :</b> Arduino, Blynk
 <br>
 <b>・[Detailed project description]</b>(https://github.com/Yeseul0411/AirCleaner-IOT-)
 </div>
@@ -75,14 +67,9 @@
 <br>
 <b>・Role :</b> Full Circuit design, Sensor on-off coding(Power strip, LED, Door)
 <br>
-<b>・Language :</b> 
-	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
+<b>・Language :</b> C, C++
 <br>
-<b>・Tool :</b> 
-	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
-	<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
+<b>・Tool :</b> Arduino, RaspberryPi, Firebase
 <br>
 <b>・[Detailed project description]</b>(https://github.com/Yeseul0411/SmartHome-IOT-)
 </div>

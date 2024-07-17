@@ -6,72 +6,85 @@
 
 ## 💻 Project 💻
 <div>
-	<h3>🛠️💻Supabase Authentication Implementation Project🛠️</h3>
+	<h3>🛠️💻Supabase Authentication Implementation Project💻🛠️</h3>
 <br>
-Team Project(3 People)
+<b>・Team Project(3 People)</b>
 <br>
-Develop: 2024.07~(ing)
+<b>・Develop :</b> 2024.07~(ing)
 <br>
-Role : ...ing
+<b>・Role :</b> ...ing
 <br>
-Language : Java, JavaScript
+<b>・Language : </b>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <br>
-Tool : Visual Studio Code, React
+<b>・Tool : </b>
+	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <br>
-[Detailed project description](https://github.com/Yeseul0411/Supabase-Project-2024)
+<b>・[Detailed project description]</b>(https://github.com/Yeseul0411/Supabase-Project-2024)
 </div>
 
 <br />
 
 <div>
-	<h3>📖Library System for Company</h3>
+	<h3>📖Library System for Company📖</h3>
 <br>
-Team Project(3 People)
+<b>・Team Project(3 People)</b>
 <br>
-Develop : 2024.03~2024.04(2mo.)
+<b>・Develop :</b> 2024.03~2024.04(2mo.)
 <br>
-Role :  Main page, Book detail page Develop(Book list, Search, Loan function)
+<b>・Role :</b>  Main page, Book detail page Develop(Book list, Search, Loan function)
 <br>
-Language : JAVA, JavaScript, JSP
+<b>・Language :</b> JAVA, JavaScript, JSP
 <br>
-Tool : Eclips, Tomcat
+<b>・Tool :</b> Eclips, Tomcat
 <br>
-[Detailed project description](https://github.com/Yeseul0411/Library-System-for-Company)
+<b>・[Detailed project description]</b>(https://github.com/Yeseul0411/Library-System-for-Company)
 </div>
 
 <br />
 
 <div>
-	<h3>☁️AirCleaner(IOT)</h3>
+	<h3>☁️AirCleaner(IOT)☁️</h3>
 <br>
-Team Project(3 People)
+<b>・Team Project(3 People)_Make-A-Thon</b>
 <br>
-Develop : 2022.11~2022.12(2mo.)
+<b>・Develop :</b> 2022.11~2022.12(2mo.)
 <br>
-Role : Full Circuit design, LED Coding
+<b>・Role :</b> Full Circuit design, LED Coding
 <br>
-Language : C, C++
+<b>・Language :</b> 
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
 <br>
-Tool : Arduino IDE, Blynk
+<b>・Tool :</b> 
+	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
+	<img src="https://img.shields.io/badge/Blynk-48d1cc?style=flat&logo=Blynk&logoColor=white" />
 <br>
-[Detailed project description](https://github.com/Yeseul0411/AirCleaner-IOT-)
+<b>・[Detailed project description]</b>(https://github.com/Yeseul0411/AirCleaner-IOT-)
 </div>
 
 
 <div>
-	<h3>🏠SmartHome(IOT)</h3>
+	<h3>🏠SmartHome(IOT)🏠</h3>
  <br>
-Team Project(5 People)_Capstone
+<b>・Team Project(5 People)_Capstone</b>
 <br>
-Develop : 2022.08~2023.05(10mo.)
+<b>・Develop :</b> 2022.08~2023.05(10mo.)
 <br>
-Role : Full Circuit design, Sensor on-off coding(Power strip, LED, Door)
+<b>・Role :</b> Full Circuit design, Sensor on-off coding(Power strip, LED, Door)
 <br>
-Language : C, C++
+<b>・Language :</b> 
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
 <br>
-Tool : Rasberry Pi, Firebase, Arduino IDE
+<b>・Tool :</b> 
+	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" />
+	<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" />
 <br>
-[Detailed project description](https://github.com/Yeseul0411/SmartHome-IOT-)
+<b>・[Detailed project description]</b>(https://github.com/Yeseul0411/SmartHome-IOT-)
 </div>
 <br>
 
@@ -111,5 +124,6 @@ Tool : Rasberry Pi, Firebase, Arduino IDE
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white" />
 	<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/Blynk-48d1cc?style=for-the-badge&logo=Blynk&logoColor=white" />
 </div>
 </div>

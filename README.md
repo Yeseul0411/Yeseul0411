@@ -48,7 +48,7 @@
 <br>
 <b>・Develop :</b> 2022.11~2022.12(2mo.)
 <br>
-<b>・Role :</b> Full Circuit design, LED Coding
+<b>・Role :</b> Modeling extraction, Full Circuit design, LED Coding
 <br>
 <b>・Language :</b> C, C++
 <br>

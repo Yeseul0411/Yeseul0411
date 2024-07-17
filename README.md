@@ -6,7 +6,7 @@
 
 ## 💻 Project 💻
 <div>
-	🛠️<h3>💻Supabase Authentication Implementation Project</h3>
+	<h3>🛠️💻Supabase Authentication Implementation Project🛠️</h3>
 <br>
 Team Project(3 People)
 <br>

@@ -30,7 +30,7 @@ Team Project(3 People)
 <br>
 Develop : 2024.03~2024.04(2mo.)
 <br>
-Role :  메인 페이지 설계, 도서 상세 페이지 설계(도서목록, 검색, 대출기능)
+Role :  Main page, Book detail page Develop(Book list, Search, Loan function)
 <br>
 Language : JAVA, JavaScript, JSP
 <br>
@@ -48,7 +48,7 @@ Team Project(3 People)
 <br>
 Develop : 2022.11~2022.12(2mo.)
 <br>
-Role : 전체 회로설계, LED코드 작성
+Role : Full Circuit design, LED Coding
 <br>
 Language : C, C++
 <br>
@@ -65,7 +65,7 @@ Team Project(5 People)_Capstone
 <br>
 Develop : 2022.08~2023.05(10mo.)
 <br>
-Role : 회로 설계
+Role : Full Circuit design, Sensor on-off coding(Power strip, LED, Door)
 <br>
 Language : C, C++
 <br>

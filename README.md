@@ -6,19 +6,19 @@
 
 ## 💻 Project 💻
 <div>
-	<h3>💻Supabase Authentication Implementation Project</h3>
+	🛠️<h3>💻Supabase Authentication Implementation Project</h3>
 <br>
 Team Project(3 People)
 <br>
 Develop: 2024.07~(ing)
 <br>
-역할 :
+Role : ...ing
 <br>
 Language : Java, JavaScript
 <br>
 Tool : Visual Studio Code, React
 <br>
-[프로젝트 상세 설명]()
+[Detailed project description](https://github.com/Yeseul0411/Supabase-Project-2024)
 </div>
 
 <br />
@@ -30,13 +30,13 @@ Team Project(3 People)
 <br>
 Develop : 2024.03~2024.04(2mo.)
 <br>
-역할 :  메인 페이지 설계, 도서 상세 페이지 설계(도서목록, 검색, 대출기능)
+Role :  메인 페이지 설계, 도서 상세 페이지 설계(도서목록, 검색, 대출기능)
 <br>
 Language : JAVA, JavaScript, JSP
 <br>
 Tool : Eclips, Tomcat
 <br>
-[프로젝트 상세 설명](https://github.com/Yeseul0411/Library-System-for-Company)
+[Detailed project description](https://github.com/Yeseul0411/Library-System-for-Company)
 </div>
 
 <br />
@@ -48,13 +48,13 @@ Team Project(3 People)
 <br>
 Develop : 2022.11~2022.12(2mo.)
 <br>
-역할 : 전체 회로설계, LED코드 작성
+Role : 전체 회로설계, LED코드 작성
 <br>
 Language : C, C++
 <br>
 Tool : Arduino IDE, Blynk
 <br>
-[프로젝트 상세 설명](https://github.com/Yeseul0411/AirCleaner-IOT-)
+[Detailed project description](https://github.com/Yeseul0411/AirCleaner-IOT-)
 </div>
 
 
@@ -65,13 +65,13 @@ Team Project(5 People)_Capstone
 <br>
 Develop : 2022.08~2023.05(10mo.)
 <br>
-역할 : 회로 설계
+Role : 회로 설계
 <br>
 Language : C, C++
 <br>
 Tool : Rasberry Pi, Firebase, Arduino IDE
 <br>
-[프로젝트 상세 설명](https://github.com/Yeseul0411/SmartHome-IOT-)
+[Detailed project description](https://github.com/Yeseul0411/SmartHome-IOT-)
 </div>
 <br>
 

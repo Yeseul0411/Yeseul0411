@@ -18,7 +18,7 @@
 <br>
 <b>・Tool : </b> React, Visual Studio Code
 <br>
-<b>・[Detailed project description]</b>(https://github.com/Yeseul0411/Supabase-Project-2024)
+<b>・[Detailed project description]</b>(https://github.com/Supabase-React-Study/Supabase-Project-2024)
 </div>
 
 <br />

@@ -12,7 +12,7 @@
 <br>
 <b>・Develop :</b> 2024.07~(ing)
 <br>
-<b>・Role :</b> ...ing
+<b>・Role :</b> E-mail Login, E-mail Signup page Develop
 <br>
 <b>・Language : </b> JAVA, JavaScript
 <br>

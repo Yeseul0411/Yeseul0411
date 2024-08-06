@@ -10,7 +10,7 @@
 <br>
 <b>・Team Project(3 People)</b>
 <br>
-<b>・Develop :</b> 2024.07~(ing)
+<b>・Develop :</b> 2024.07~2024.08(1.5mo.)
 <br>
 <b>・Role :</b> E-mail Login, E-mail Signup page Develop
 <br>

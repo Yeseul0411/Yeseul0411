@@ -14,7 +14,7 @@
 <br>
 <b>・Role :</b> E-mail Login, E-mail Signup page Develop
 <br>
-<b>・Language : </b> JAVA, JavaScript
+<b>・Language : </b> JAVA, JavaScript, TypeScript
 <br>
 <b>・Tool : </b> Next.js, React, Visual Studio Code
 <br>

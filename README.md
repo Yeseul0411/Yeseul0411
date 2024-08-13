@@ -6,7 +6,7 @@
 
 ## 💻 Project 💻
 <div>
-	<h3>🛠️💻Supabase Authentication Implementation Project💻🛠️</h3>
+	<h3>💻Supabase Authentication Implementation Project💻</h3>
 <br>
 <b>・Team Project(3 People)</b>
 <br>
@@ -16,7 +16,7 @@
 <br>
 <b>・Language : </b> JAVA, JavaScript
 <br>
-<b>・Tool : </b> React, Visual Studio Code
+<b>・Tool : </b> Next.js, React, Visual Studio Code
 <br>
 <b>・[Detailed project description]</b>(https://github.com/Supabase-React-Study/Supabase-Project-2024)
 </div>
